@@ -42,3 +42,14 @@ A high-performance operational interface designed for directive management and m
 ---
 **OPERATIONAL SECURE INTERFACE // AUTH: MASTER**
 *This system has been uniquely refactored for plagiarism-free deployment.*
+
+
+
+<img width="1781" height="1007" alt="image" src="https://github.com/user-attachments/assets/ac914d71-1b0c-450e-8c64-c231cc948811" />
+
+<img width="1682" height="1015" alt="image" src="https://github.com/user-attachments/assets/2dd73cc8-75fb-4887-8e7b-26c45e7743c2" />
+
+<img width="847" height="627" alt="image" src="https://github.com/user-attachments/assets/c3572a26-de5e-4881-968f-765294ca399c" />
+
+
+
